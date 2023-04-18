@@ -15,7 +15,7 @@ public class Main {
                            2.Nhap hang sanh su 
                            3.Nhap hang thuc pham
                            4.in ra 
-                           0.Thoat  
+                           5.Thoat  
                            """);
 	System.out.println("Nhap Lua Chon Cua Ban 	: ");
 	luaChon = nhap.nextInt();
